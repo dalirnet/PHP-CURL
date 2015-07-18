@@ -6,5 +6,5 @@ Curl Class For PHP
   $curl->post_param({name},{value});
   $curl->post_param({name},{value});
   $curl->execute({url});
-  $result = $this->curl->out;
+  $result = $curl->out;
 ````
